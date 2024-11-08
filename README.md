@@ -9,3 +9,6 @@
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/lap-does-things/bash-warp-generator/main/warp_generator.sh)
 ```
+Эта вилка была сделана
+а) для redundancy от оригинального источника на случай приколов РКН
+б) для поигрулек с самим скриптом, когда-нибудь я обязательно допилю что-нибудь кайфовое
