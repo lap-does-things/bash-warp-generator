@@ -1,4 +1,4 @@
-# Сгенерируйте конфиг Cloudflare WARP для AmneziaWG
+# Сгенерируйте конфиг Cloudflare WARP для AmneziaWG [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)](https://app.codacy.com/gh/lap-does-things/bash-warp-generator/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 Этот bash скрипт сгенерирует конфиг Cloudflare WARP для AmneziaWG.
 
 Не стоит выполнять его локально, так как РКН заблокировал запросы для получения конфига. Вместо этого лучше выполнять на удалённых серверах.
